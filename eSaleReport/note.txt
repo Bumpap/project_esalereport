@@ -1,0 +1,36 @@
+npm install
+npm install @react-navigation/drawer
+npm install react-native-gesture-handler react-native-reanimated
+npm install @react-navigation/stack
+
+
+qrcode:
+npm install react-native-qrcode-svg
+-> import QRCode from 'react-native-qrcode-svg';
+
+upload image file:
+npm i react-native-image-picker
+
+maps:
+npm install react-native-maps
+npm install typescript @types/react-native @types/react-native-maps
+
+user location:
+npx expo install expo-location
+
+Directions:
+npm i react-native-maps-directions
+
+youtube video:
+npm install react-native-webview - dont user
+npm install react-native-youtube-iframe
+
+file:
+npx expo install expo-document-picker
+expo install expo-document-picker
+
+npm i expo-sharing
+npm i expo-file-system
+
+expo install react-native-view-shot
+npm install pdf-lib
